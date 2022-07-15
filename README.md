@@ -1,6 +1,14 @@
 # ndhm_intelligent_search
+Objective
 
+Benifit to users
 
+Additional features
+
+  Implemented 
+  
+  Future scope of enhancements
+  
 Asssumptions
 
 UHI
@@ -8,7 +16,6 @@ Since we do not have consumer end points built we will mimic NDHM API's in our a
 
 
 Technical Design
-
 
 How to Setup
 
