@@ -1,7 +1,7 @@
 # uhi-hrp
 
 
-* Assumptions*
+*Assumptions*
 
 Since we do not have end points available
 
@@ -11,7 +11,7 @@ All the return data can be changed as per UHI, for now we have considered what i
 
 To change the basic raw data use file HRPInfo.json
 
-*to run the project*
+*To run the project*
 
 npm i
 node index.js

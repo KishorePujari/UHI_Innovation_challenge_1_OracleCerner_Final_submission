@@ -6,7 +6,9 @@ Basic android web view wrapper application which uses the final html/css/js file
 *To run the app:*
 
 Build the react app first
+
 get the the dist(please look at uhi-search-react-app read me file) folder to assets->html
+
 build the android code
 
 and run
