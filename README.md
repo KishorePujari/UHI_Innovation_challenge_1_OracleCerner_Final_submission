@@ -1,33 +1,33 @@
 # ndhm_intelligent_search
-Objective
+*Objective*
 
-Benifit to users
+*Benifit to users*
 
-Additional features
+*Additional features*
 
-  Implemented 
+  **Implemented** 
   
-  Future scope of enhancements
+  **Future scope of enhancements**
   
-Asssumptions
+*Asssumptions*
 
-UHI
+*UHI*
 Since we do not have consumer end points built we will mimic NDHM API's in our app
 
 
-Technical Design
+*Technical Design*
 
-How to Setup
+*How to Setup*
 
 
-Work flow with UI
+*Work flow with UI*
 
-Work flow with Video
+*Work flow with Video*
 
-Sample data
+*Sample data*
 
-  Auto correction
+  **Auto correction**
 
-  Auto Suggestion
+  **Auto Suggestion**
 
-  Unstructured to startucted data
+  **Unstructured to startucted data**
