@@ -5,7 +5,7 @@ This project converts any language text to any language
 
 *API Information*
 
-GET/POST <base host name>/translate
+GET/POST  host_name/translate
 
 body params
 
