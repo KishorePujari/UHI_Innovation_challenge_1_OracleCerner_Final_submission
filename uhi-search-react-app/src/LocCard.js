@@ -18,18 +18,20 @@ function LocCard(props) {
     <>
       <Fade style={{ transformOrigin: "0 0 0" }} {...{ timeout: 500 }} in>
         <Card
-          raised={true}
-          sx={{ width: "80%", paddingBottom: "0.3em", borderRadius: "20px" }}
+          sx={{ width: "95%", paddingBottom: "0.3em", borderRadius: "20px" }}
         >
           <CardContent>
             <Typography gutterBottom variant="h5" component="div">
               {name}
             </Typography>
             <Typography variant="body2" color="text.secondary">
-              {distanceKm}km ₹{fee}
+              {distanceKm}km away
+            </Typography>
+            <Typography variant="body2" color="text.secondary">
+              ₹{fee}
             </Typography>
           </CardContent>
-          <CardActions>
+          {/* <CardActions>
             <Button
               onClick={() => {
                 props.setMapDisplay([latNum, longNum]);
@@ -46,7 +48,7 @@ function LocCard(props) {
             >
               View Doctors
             </Button>
-          </CardActions>
+          </CardActions> */}
         </Card>
       </Fade>
       <br />

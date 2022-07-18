@@ -66,7 +66,8 @@
 .search-contents-div {
   background-color: white;
   width: 100vw;
-  height: 68%;
+  padding-top: 5%;
+  height: 70%;
   border-radius: 25px;
   box-shadow: 3 -3px 10px darkgray;
 }
@@ -118,7 +119,37 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
+  background-color: white;
+  width: 100vw;
+  padding-top: 0%;
+  height: 100%;
+  border-radius: 20px;
+  box-shadow: 3 -3px 10px darkgray;
+}
+
+
+.doctorCards {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+  width: 100vw;
+  padding-top: 5%;
+  height: 100em;
+  border-radius: 20px;
+  box-shadow: 3 -3px 10px darkgray;
+}
+
+.tabDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+  width: 100vw;
+  padding-top: 5%;
+  height: 100em;
+  border-radius: 20px;
+  box-shadow: 3 -3px 10px darkgray;
 }
 
 .card {
